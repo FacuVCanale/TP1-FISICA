@@ -6,8 +6,8 @@ Marcar con una cruz los que están hechos
 
 (X) Mostrar al menos un gráfico de distancia vs tiempo para un set de m y M. Acá poner las incertezas en la distancia que sale del ajuste lineal anterior.
 
-( ) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
+(x) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
 
-( ) Gráficos de aceleración vs m y aceleración vs M. 
+(x) [Solo m] Gráficos de aceleración vs m y aceleración vs M. 
 
 ( ) De las aceleraciones anteriores deberían poder sacar un valor del coeficiente de rozamiento dinámico mu_d. Reportar ese valor para las distintas superficies. Acá pueden hacer un gráfico de mu_d vs superficie. También pueden, para ayudarse, mostrar gráfico de mu_d vs m / M, etc.
