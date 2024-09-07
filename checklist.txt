@@ -1,13 +1,11 @@
 Marcar con una cruz los que están hechos
 
-(X) Gráfico de calibración. Acá tienen que estar los datos con sus incertezas, el ajuste (lineal) de los datos y reportar la pendiente y ordenada del origen con sus incertezas.
+PARA SUPERFICIE PAPEL
 
-(X) Escribir un ejemplo de conversión para una medida del sensor a una distancia real. Es decir si el sensor reporta 600 U.A, ¿a cuántos cm corresponde con qué incerteza? (Ver para esto el apunte de Regresión Lineal!) 
+(X) Distancia vs tiempo para un set de m y M. Acá poner las incertezas en la distancia que sale del ajuste lineal del sensor.
 
-(X) Mostrar al menos un gráfico de distancia vs tiempo para un set de m y M. Acá poner las incertezas en la distancia que sale del ajuste lineal anterior.
+(X) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
 
-(x) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
+(X) Gráficos de aceleración vs M. 
 
-(x) [Solo m] Gráficos de aceleración vs m y aceleración vs M. 
-
-( ) De las aceleraciones anteriores deberían poder sacar un valor del coeficiente de rozamiento dinámico mu_d. Reportar ese valor para las distintas superficies. Acá pueden hacer un gráfico de mu_d vs superficie. También pueden, para ayudarse, mostrar gráfico de mu_d vs m / M, etc.
+(X) De las aceleraciones anteriores deberían poder sacar un valor del coeficiente de rozamiento dinámico mu_d. Reportar ese valor para las distintas superficies. Acá pueden hacer un gráfico de mu_d vs superficie. También pueden, para ayudarse, mostrar gráfico de mu_d vs m / M, etc.
