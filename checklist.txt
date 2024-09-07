@@ -2,9 +2,9 @@ Marcar con una cruz los que están hechos
 
 PARA SUPERFICIE PAPEL
 
-( ) Distancia vs tiempo para un set de m y M. Acá poner las incertezas en la distancia que sale del ajuste lineal del sensor.
+(X) Distancia vs tiempo para un set de m y M. Acá poner las incertezas en la distancia que sale del ajuste lineal del sensor.
 
-( ) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
+(X) De ese gráfico, reportar la aceleración con su incerteza. Si usan un ajuste cuadrático, mostrarlo y reportar los coeficientes y sus incertezas.
 
 (X) Gráficos de aceleración vs M. 
 
